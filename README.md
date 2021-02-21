@@ -12,4 +12,5 @@ I'm a Javascript Full Stack Developer from Santos, Brazil.
 -  ⚡  WebPack, GulpJS
 -  ⚡  Docker, Bash, MySQL, Mongo, GraphQL
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomarks7&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
