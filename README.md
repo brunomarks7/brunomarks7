@@ -25,9 +25,9 @@ Learning and solving problems it's my passion. I'm always open to new challanges
 
 
 ## Skills
--  👨‍💻  TypeScript, JavaScript, Java
--  ⚙️  Angular 2+, React, NodeJS
+-  👨‍💻  VueJS, React, Typescript
+-  ⚙️  PHP, WordPress, Python
 -  👁️  SASS, CSS
--  💽  MySQL, SQL, Mongo
+-  💽  Docker, MySQL, Mongo
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alynevieira&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomarks7&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
