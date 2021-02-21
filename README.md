@@ -25,9 +25,9 @@ Learning and solving problems it's my passion. I'm always open to new challanges
 
 
 ## Skills
--  👨‍💻  VueJS, React, Typescript
--  ⚙️  PHP, WordPress, Python
--  👁️  SASS, CSS
--  💽  Docker, MySQL, Mongo
+-  🟦 VueJS, React, Typescript
+-  🟦  PHP, WordPress, Python
+-  🟦  SASS, CSS
+-  🟦  Docker, MySQL, Mongo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomarks7&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
