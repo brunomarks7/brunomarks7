@@ -31,7 +31,7 @@ I'm a Javascript Full Stack Developer from Santos, Brazil.
 
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=brunomarks7&show_icons=true&theme=dracula" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=brunomarks7&show_icons=true&theme=dracula" width="430"></a>
 </p>
 
 
