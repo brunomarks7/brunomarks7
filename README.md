@@ -33,7 +33,7 @@ I'm a Javascript Full Stack Developer from Santos, Brazil.
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=brunomarks7&show_icons=true&theme=dracula" width="430"></a>
   
-  <img src="https://camo.githubusercontent.com/d7490794a2d042e6eb6a434616022fe17f075368c31740e69bf1b3cb0acb273f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a7261266c61796f75743d636f6d70616374" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomarks&amp;layout=dracula" style="max-width:100%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomarks7&layout=compact" style="max-width:100%;">
   
   
 </p>
