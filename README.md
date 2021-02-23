@@ -17,7 +17,7 @@ I'm a Javascript Full Stack Developer from Santos, Brazil.
 <br/>
 
 <div>
-<h1 align="center">My Workspace 💻</h1> <br />
+<h2 align="center">My Workspace 💻</h2> <br />
 </div>
 
 <p align="center">
@@ -28,5 +28,7 @@ I'm a Javascript Full Stack Developer from Santos, Brazil.
 <img src="https://img.shields.io/badge/radeon-MSI%20RX570-%2376B900.svg?&style=for-the-badge&logo=amd&logoColor=white&color=red" />
 <p>
 <br />
-  
+
+<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomarks7&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
