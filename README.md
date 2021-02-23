@@ -29,6 +29,4 @@ I'm a Javascript Full Stack Developer from Santos, Brazil.
 <p>
 <br />
 
-<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomarks7&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
