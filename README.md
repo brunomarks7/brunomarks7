@@ -15,10 +15,10 @@ I'm a Javascript Full Stack Developer from Santos, Brazil.
 -  ⚡  Docker, Bash, MySQL, Mongo, GraphQL
 
 <br/>
-
+<p align="left">
 ## My Workspace 💻
 
-<p align="left">
+
 <img src="https://img.shields.io/badge/VSCode-%230071C5.svg?&style=for-the-badge&logoColor=white&color=blue" />
 <img src="https://img.shields.io/badge/ubuntu-kde-%230078D6.svg?&style=for-the-badge&logo=ubuntu&logoColor=orange&color=9728c3" />
 <img src="https://img.shields.io/badge/ryzen%20%205-%230071C5.svg?&style=for-the-badge&logo=amd&logoColor=white&color=black" />
