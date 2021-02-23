@@ -22,7 +22,6 @@ I'm a Javascript Full Stack Developer from Santos, Brazil.
 
 <p align="center">
 <img src="https://img.shields.io/badge/VSCode-%230071C5.svg?&style=for-the-badge&logoColor=white&color=blue" />
-<img src="https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ubuntu-kde-%230078D6.svg?&style=for-the-badge&logo=ubuntu&logoColor=orange&color=9728c3" />
 <img src="https://img.shields.io/badge/ryzen%20%205-%230071C5.svg?&style=for-the-badge&logo=amd&logoColor=white&color=black" />
 <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white&color=black" />
@@ -34,4 +33,7 @@ I'm a Javascript Full Stack Developer from Santos, Brazil.
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=brunomarks7&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
+
+![brunomarks's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunomarks7&show_icons=true&theme=dracula)
+
 
