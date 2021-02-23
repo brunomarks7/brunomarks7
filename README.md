@@ -32,7 +32,7 @@ I'm a Javascript Full Stack Developer from Santos, Brazil.
 
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=brunomarks7&show_icons=true&theme=dracula" width="420">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomarks7&layout=dracula" style="max-width:100%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomarks7&layout=compact&theme=dracula" style="max-width:100%;">
 </p>
 
 
