@@ -12,13 +12,13 @@ I'm a Javascript Full Stack Developer from Santos, Brazil.
 -  ⚡  WebPack, GulpJS
 -  ⚡  Docker, Bash, MySQL, Mongo, GraphQL
 
-## My Workspace
+## 💻 My Workspace
 
-💻 My workspace<br/><br/>
+<br/><br/>
 <img src="https://img.shields.io/badge/ubuntu-kde-%230078D6.svg?&style=for-the-badge&logo=ubuntu&logoColor=orange&color=9728c3" />
 <img src="https://img.shields.io/badge/ryzen%20%205-%230071C5.svg?&style=for-the-badge&logo=amd&logoColor=white&color=black" />
 <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white&color=black" />
 <img src="https://img.shields.io/badge/radeon-MSI%20RX570-%2376B900.svg?&style=for-the-badge&logo=amd&logoColor=white&color=red" />
-
+<br/><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomarks7&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
