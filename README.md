@@ -7,7 +7,7 @@ I'm a Javascript Full Stack Developer from Santos, Brazil.
 <br/>
 
 ## Skills
--  ⚡  Continous focus on UX design, SEO, Core Vitals guidelines
+-  ⚡  UX design, SEO, Core Vitals guidelines
 -  ⚡  HTML5, SASS
 -  ⚡  VueJS (Gridsome, Nuxt), React (NextJS), Typescript
 -  ⚡  NodeJS (Express), PHP (WordPress Development, WooCommerce)
