@@ -7,7 +7,7 @@ Full Stack Developer from ~Santos, Brazil~ remote.
 <br/>
 
 ## Skills
--  ⚡  UX design, SEO, Core Vitals guidelines
+-  ⚡  Clean Code, UX design, SEO, Core Vitals guidelines
 -  ⚡  HTML5, SASS
 -  ⚡  VueJS (Gridsome, Nuxt), React (NextJS), Typescript
 -  ⚡  NodeJS (Express), PHP (WordPress Development, WooCommerce)
@@ -15,14 +15,9 @@ Full Stack Developer from ~Santos, Brazil~ remote.
 -  ⚡  Docker, Bash, MySQL, Mongo, GraphQL
 
 <br/>
-
 <br />
-
 
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=brunomarks7&show_icons=true&theme=dracula" width="420">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomarks7&layout=compact&theme=dracula" style="max-width:100%;">
 </p>
-
-
-
