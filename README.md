@@ -12,7 +12,7 @@ Full Stack Developer from ~Santos, Brazil~ remote.
 -  ⚡  Vue3, Typescript, React (NextJS)
 -  ⚡  NodeJS (Express), PHP (WordPress Development, WooCommerce)
 -  ⚡  WebPack, GulpJS
--  ⚡  MySQL, Mongo, Redis, GraphQL
+-  ⚡  MySQL, Postgres, MongoDB, Redis, GraphQL
 -  ⚡  Unix, Bash, Docker
 
 <br/>
