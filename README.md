@@ -7,12 +7,13 @@ Full Stack Developer from ~Santos, Brazil~ remote.
 <br/>
 
 ## Skills
--  ⚡  Clean Code, UX design, SEO, Core Vitals guidelines
--  ⚡  HTML5, SASS
--  ⚡  VueJS (Gridsome, Nuxt), React (NextJS), Typescript
+-  ⚡  Clean Code, UX/UI, SEO Friendly Architecture, Core Vitals Fundamentals
+-  ⚡  HTML5, SCSS, JS
+-  ⚡  Vue3, Typescript, React (NextJS)
 -  ⚡  NodeJS (Express), PHP (WordPress Development, WooCommerce)
 -  ⚡  WebPack, GulpJS
--  ⚡  Docker, Bash, MySQL, Mongo, GraphQL
+-  ⚡  MySQL, Mongo, Redis, GraphQL
+-  ⚡  Unix, Bash, Docker
 
 <br/>
 <br />
