@@ -2,9 +2,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-407bff?style=flat-square&labelColor=407bff&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunomarks7/)](https://www.linkedin.com/in/brunomarks7/) [![Github Badge](https://img.shields.io/badge/-Github-407bff?style=flat-square&labelColor=407bff&logo=Github&logoColor=white&link=https://github.com/brunomarks7)](https://github.com/brunomarks7)
 
-Full Stack Developer from ~Santos, Brazil~ remote. 
-
-<br/>
 <br />
 
 <p align='center'>
